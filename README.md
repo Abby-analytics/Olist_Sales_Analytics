@@ -119,6 +119,6 @@ However, key opportunities lie in:
 
 **Author:** Abby-TA  
 **Project:** Olist Store Data Analytics Challenge  
-**Tools Used:** Power BI | Excel | SQL | GitHub  
+**Tools Used:** Power BI | Excel | GitHub  
 
 ---
